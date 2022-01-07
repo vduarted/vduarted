@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vduarted
+- 👀 I’m interested in start my programmer carrer as soon as possible
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on Tiny projects as a great opportunity to learn from basics.
+- 📫 How to reach me: Email: vduarted1994@gmail.com
